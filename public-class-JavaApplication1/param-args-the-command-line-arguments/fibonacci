@@ -1,6 +1,6 @@
 public class fibonacci {
     public static void main(String[] args) {
-         int limit = 7;
+    int limit = 7;
     long[] series = new long[limit];
     series[0] = 0;
     series[1] = 1;
