@@ -12,6 +12,7 @@ public class fibonacci {
     System.out.println("Output = ");
     for(int i=0; i< limit; i++){
     System.out.print(series[i] + " ");
+    System.out.print("test");
     }
     
 }
